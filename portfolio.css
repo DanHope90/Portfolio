@@ -1,0 +1,44 @@
+
+
+header {
+    background-color: red;
+}
+
+#Dan {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    display: block;
+    text-align:center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+nav {
+    background-color: red;
+    text-align: center;
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ #image {
+     width: 100%;
+     display: flex;
+     justify-content: center;
+    align-items: center;
+}
+
+#about-me{
+    background-color: red;
+    color: white;
+    padding: 5px;
+
